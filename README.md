@@ -24,11 +24,16 @@ I am a junior data analyst working in the marketing analyst team at Cyclistic, a
 The codebase contains three files:
 
 i. An R file where the actual analysis and visualizations took place in R programming language (along with comments)
+
+
 ii. An RMarkdown file where the whole description/report of the case study is noted down in points. Each step in the analysis is clearly explained in the doc. It also contains the code chunks from the above file.
+
 iii. An HTML file which renders the content in the above RMarkdown file along with the code chunks.
 
 ## Dataset
 
 I will be using Cyclistic’s historical trip data to analyze and identify trends.
+
 Please find the dataset from this link ([Download the previous 12 months of Cyclic trip data here](https://divvy-tripdata.s3.amazonaws.com/index.html)). Have taken 2021 data for the analysis (from Jan 2021 - Dec 2021).
+
 The datasets have a different name because Cyclistic is a fictional company. For the purposes of this case study, the datasets are appropriate and will enable you to answer the business questions. The data has been made available by Motivate International Inc. under this [license](https://ride.divvybikes.com/data-license-agreement).
